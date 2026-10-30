@@ -70,6 +70,8 @@ Gemini (`gemini-3.6-flash`): 25 s el propio y 26 s el ADK por corrida, con la mi
 deja `propio` porque es el que los estudiantes pueden leer entero.
 
 ## Mis direcciones
+https://github.com/cristobalroman-create/ia-toolkit/tree/main/backend
+https://github.com/cristobalroman-create/ia-toolkit/tree/main/frontend
 
 <!-- Este bloque es tuyo: complétalo después del paso 5. Las actualizaciones del maestro no lo tocan. -->
 
